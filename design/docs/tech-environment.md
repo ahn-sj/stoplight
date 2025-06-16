@@ -2,7 +2,7 @@
 
 ## 1. 프론트엔드 환경
 
-* **프레임워크:** React Native
+* **프레임워크**: React (Web View 기반)
 * **언어:** TypeScript
 * **상태 관리:** Zustand
 
